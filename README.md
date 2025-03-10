@@ -1,2 +1,4 @@
 # dio-github
-Curso webdio chega por hoje
+Curso Webdio Chega por Hoje
+
+data: 10/03/2025
