@@ -1,10 +1,2 @@
 # dio-github
-Curso webdio
-
-
-
-testando vscode
-
-
-
-alala ooooooo
+Curso webdio chega por hoje
